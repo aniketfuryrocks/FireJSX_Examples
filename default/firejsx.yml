@@ -1,0 +1,7 @@
+plugins:
+  - ./src/plugin/hello.js
+  - ./src/plugin/multi_page.js
+custom:
+  name: "aniket"
+paths:
+  app: ./App.jsx
